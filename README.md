@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian (@ianvp)
+- 👋 Hi, I’m Ian (@ianvanpeborgh)
 - 👀 I’m interested in cross device App Development
 - 🌱 I’m currently learning Dart and the Flutter SDK
 - 💞️ I’m looking to collaborate on nothing, currently focusing on my personal projects
